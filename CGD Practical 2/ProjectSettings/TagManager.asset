@@ -44,3 +44,12 @@ TagManager:
   - name: Player
     uniqueID: 3641030839
     locked: 0
+  - name: Trees
+    uniqueID: 731396757
+    locked: 0
+  - name: Misc.
+    uniqueID: 2072450895
+    locked: 0
+  - name: Wall
+    uniqueID: 1592401867
+    locked: 0
