@@ -67,5 +67,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gems - Blue Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 2761545943541470114, guid: 409eff0996a4b0c42b22679cb720053f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 409eff0996a4b0c42b22679cb720053f, type: 3}
